@@ -1,0 +1,4 @@
+username,name,profile_url,niche,followers,email,location,bio,source
+sample_fit_creator,Sample Fitness Creator,https://www.instagram.com/sample_fit_creator/,Fitness,24500,creator1@example.test,"Hyderabad, India",Synthetic demo record only,synthetic demo
+sample_food_creator,Sample Food Creator,https://www.instagram.com/sample_food_creator/,Food,52000,creator2@example.test,"Bengaluru, India",Synthetic demo record only,synthetic demo
+sample_tech_creator,Sample Tech Creator,https://www.instagram.com/sample_tech_creator/,Technology,18000,,India,Synthetic demo record only,synthetic demo
